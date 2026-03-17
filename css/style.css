@@ -191,7 +191,7 @@ a.header-menu-item.active{
     border-radius: 8px;
     box-shadow: 4px 8px 8px rgba(0,0,0,0.38);
     overflow: hidden;
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 .skills-title{
     color: var(--color-accent);
